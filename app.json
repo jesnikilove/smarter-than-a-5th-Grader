@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "smarter-than-5th",
+    "slug": "smarter-than-5th",
+    "scheme": "smarterthan5th",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "26e18cf2-f0b1-4167-83c3-4fb3a08291ee"
+      }
+    },
+    "android": {
+      "package": "com.jesniki.smarterthan5th"
+    }
+  }
+}

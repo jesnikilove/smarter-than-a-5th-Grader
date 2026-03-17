@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "p028-0000",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0001",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0002",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 73 + 100?",
+    "choices": [
+      "173",
+      "192",
+      "179",
+      "145"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0003",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is a primary source?",
+    "choices": [
+      "A firsthand record",
+      "A made-up story",
+      "A future prediction",
+      "A rumor"
+    ],
+    "answer": 0,
+    "hint": "Firsthand evidence from the time."
+  },
+  {
+    "id": "p028-0004",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0005",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0006",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 378 × 342?",
+    "choices": [
+      "129249",
+      "129323",
+      "129227",
+      "129276"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0007",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which word is a conjunction?",
+    "choices": [
+      "and",
+      "quickly",
+      "blue",
+      "school"
+    ],
+    "answer": 0,
+    "hint": "Conjunctions join words/phrases."
+  },
+  {
+    "id": "p028-0008",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 7 + 35?",
+    "choices": [
+      "40",
+      "29",
+      "53",
+      "42"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0009",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0010",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 5 + 19?",
+    "choices": [
+      "5",
+      "24",
+      "35",
+      "34"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0011",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is a primary source?",
+    "choices": [
+      "A firsthand record",
+      "A made-up story",
+      "A future prediction",
+      "A rumor"
+    ],
+    "answer": 0,
+    "hint": "Firsthand evidence from the time."
+  },
+  {
+    "id": "p028-0012",
+    "grade": 1,
+    "subject": "Social Studies",
+    "prompt": "Grade 1 Social Studies: A community is a group of ____.",
+    "choices": [
+      "animals",
+      "people",
+      "rocks",
+      "cars"
+    ],
+    "answer": 1,
+    "hint": "Think neighbors."
+  },
+  {
+    "id": "p028-0013",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "friend",
+      "friende",
+      "friand",
+      "freend"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0014",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which animal barks?",
+    "choices": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Fish"
+    ],
+    "answer": 1,
+    "hint": "Common pet sound."
+  },
+  {
+    "id": "p028-0015",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is a primary source?",
+    "choices": [
+      "A firsthand record",
+      "A made-up story",
+      "A future prediction",
+      "A rumor"
+    ],
+    "answer": 0,
+    "hint": "Firsthand evidence from the time."
+  },
+  {
+    "id": "p028-0016",
+    "grade": 1,
+    "subject": "Social Studies",
+    "prompt": "Grade 1 Social Studies: A community is a group of ____.",
+    "choices": [
+      "animals",
+      "people",
+      "rocks",
+      "cars"
+    ],
+    "answer": 1,
+    "hint": "Think neighbors."
+  },
+  {
+    "id": "p028-0017",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which animal barks?",
+    "choices": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Fish"
+    ],
+    "answer": 1,
+    "hint": "Common pet sound."
+  },
+  {
+    "id": "p028-0018",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0019",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0020",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "fish",
+      "fesh",
+      "fishe",
+      "fishe"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0021",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 192 - 6?",
+    "choices": [
+      "173",
+      "211",
+      "189",
+      "186"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0022",
+    "grade": 3,
+    "subject": "Animal Science",
+    "prompt": "Grade 3 Animal Science: What do herbivores eat?",
+    "choices": [
+      "Plants",
+      "Meat",
+      "Rocks",
+      "Plastic"
+    ],
+    "answer": 0,
+    "hint": "Herb = plant."
+  },
+  {
+    "id": "p028-0023",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "doge",
+      "doge",
+      "dog",
+      "doge"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0024",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "anemal",
+      "animale",
+      "animale",
+      "animal"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0025",
+    "grade": 1,
+    "subject": "Social Studies",
+    "prompt": "Grade 1 Social Studies: A community is a group of ____.",
+    "choices": [
+      "animals",
+      "people",
+      "rocks",
+      "cars"
+    ],
+    "answer": 1,
+    "hint": "Think neighbors."
+  },
+  {
+    "id": "p028-0026",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is a food chain?",
+    "choices": [
+      "A type of fence",
+      "How energy moves from one organism to another",
+      "A pet store",
+      "A rock layer"
+    ],
+    "answer": 1,
+    "hint": "Energy transfer in nature."
+  },
+  {
+    "id": "p028-0027",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which animal barks?",
+    "choices": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Fish"
+    ],
+    "answer": 1,
+    "hint": "Common pet sound."
+  },
+  {
+    "id": "p028-0028",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: What is a citizen?",
+    "choices": [
+      "A type of animal",
+      "A person who belongs to a country",
+      "A planet",
+      "A food"
+    ],
+    "answer": 1,
+    "hint": "Citizens belong to a nation."
+  },
+  {
+    "id": "p028-0029",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "calendare",
+      "calendare",
+      "calandar",
+      "calendar"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0030",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: What does a mayor usually lead?",
+    "choices": [
+      "A city",
+      "A planet",
+      "A rainforest",
+      "A volcano"
+    ],
+    "answer": 0,
+    "hint": "Local government."
+  },
+  {
+    "id": "p028-0031",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is camouflage used for?",
+    "choices": [
+      "To be loud",
+      "To blend in",
+      "To grow taller",
+      "To fly faster"
+    ],
+    "answer": 1,
+    "hint": "It helps animals hide."
+  },
+  {
+    "id": "p028-0032",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0033",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which word is a conjunction?",
+    "choices": [
+      "and",
+      "quickly",
+      "blue",
+      "school"
+    ],
+    "answer": 0,
+    "hint": "Conjunctions join words/phrases."
+  },
+  {
+    "id": "p028-0034",
+    "grade": 2,
+    "subject": "Animal Science",
+    "prompt": "Grade 2 Animal Science: Which is a reptile?",
+    "choices": [
+      "Frog",
+      "Snake",
+      "Robin",
+      "Shark"
+    ],
+    "answer": 1,
+    "hint": "Reptiles have scales."
+  },
+  {
+    "id": "p028-0035",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "cat",
+      "cate",
+      "cate",
+      "cate"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0036",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "independente",
+      "endependent",
+      "independent",
+      "indapandant"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0037",
+    "grade": 4,
+    "subject": "Spelling",
+    "prompt": "Grade 4 Spelling: Which is spelled correctly?",
+    "choices": [
+      "environment",
+      "anvironmant",
+      "enveronment",
+      "environmente"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0038",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which is the best revision?",
+    "choices": [
+      "Me and him went.",
+      "Him and me went.",
+      "He and I went.",
+      "I and he went."
+    ],
+    "answer": 2,
+    "hint": "Use subject pronouns: he/I."
+  },
+  {
+    "id": "p028-0039",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0040",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A map shows ____.",
+    "choices": [
+      "weather",
+      "places",
+      "music",
+      "food"
+    ],
+    "answer": 1,
+    "hint": "Maps show locations."
+  },
+  {
+    "id": "p028-0041",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 79 × 172?",
+    "choices": [
+      "13571",
+      "13582",
+      "13588",
+      "13563"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0042",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 56 + 149?",
+    "choices": [
+      "205",
+      "183",
+      "210",
+      "228"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0043",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "diffarant",
+      "defferent",
+      "diferent",
+      "different"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0044",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0045",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0046",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "friende",
+      "freend",
+      "friand",
+      "friend"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0047",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0048",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 2 - 0?",
+    "choices": [
+      "-1",
+      "-5",
+      "2",
+      "7"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0049",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "because",
+      "becausee",
+      "bacausa",
+      "becausee"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0050",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 5 + 3?",
+    "choices": [
+      "9",
+      "8",
+      "7",
+      "1"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0051",
+    "grade": 4,
+    "subject": "Spelling",
+    "prompt": "Grade 4 Spelling: Which is spelled correctly?",
+    "choices": [
+      "nacassary",
+      "necesary",
+      "necessarye",
+      "necessary"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0052",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which is an adjective?",
+    "choices": [
+      "quick",
+      "run",
+      "they",
+      "jump"
+    ],
+    "answer": 0,
+    "hint": "Adjectives describe nouns."
+  },
+  {
+    "id": "p028-0053",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "calendare",
+      "calendare",
+      "calendar",
+      "calandar"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0054",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which sentence uses commas correctly?",
+    "choices": [
+      "I bought apples bananas and milk.",
+      "I bought apples, bananas, and milk.",
+      "I bought, apples bananas and milk.",
+      "I bought apples bananas, and milk."
+    ],
+    "answer": 1,
+    "hint": "Use commas in a list."
+  },
+  {
+    "id": "p028-0055",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 16 - 34?",
+    "choices": [
+      "-35",
+      "-18",
+      "-13",
+      "-27"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0056",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A map shows ____.",
+    "choices": [
+      "weather",
+      "places",
+      "music",
+      "food"
+    ],
+    "answer": 1,
+    "hint": "Maps show locations."
+  },
+  {
+    "id": "p028-0057",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0058",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which is the best revision?",
+    "choices": [
+      "Me and him went.",
+      "Him and me went.",
+      "He and I went.",
+      "I and he went."
+    ],
+    "answer": 2,
+    "hint": "Use subject pronouns: he/I."
+  },
+  {
+    "id": "p028-0059",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0060",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which word is a conjunction?",
+    "choices": [
+      "and",
+      "quickly",
+      "blue",
+      "school"
+    ],
+    "answer": 0,
+    "hint": "Conjunctions join words/phrases."
+  },
+  {
+    "id": "p028-0061",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which is a complete sentence?",
+    "choices": [
+      "Running fast.",
+      "Because I was late.",
+      "I ran to school.",
+      "In the morning."
+    ],
+    "answer": 2,
+    "hint": "A sentence needs a subject and verb."
+  },
+  {
+    "id": "p028-0062",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 33 + 796?",
+    "choices": [
+      "855",
+      "829",
+      "814",
+      "866"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0063",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is the purpose of the Constitution?",
+    "choices": [
+      "To plan vacations",
+      "To create the rules of government",
+      "To sell food",
+      "To change weather"
+    ],
+    "answer": 1,
+    "hint": "It sets up government and rights."
+  },
+  {
+    "id": "p028-0064",
+    "grade": 4,
+    "subject": "Spelling",
+    "prompt": "Grade 4 Spelling: Which is spelled correctly?",
+    "choices": [
+      "axcallant",
+      "excellente",
+      "excellent",
+      "excelent"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0065",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "bacausa",
+      "becausee",
+      "because",
+      "becausee"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0066",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "remembere",
+      "ramambar",
+      "remember",
+      "remembere"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0067",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which sentence uses commas correctly?",
+    "choices": [
+      "I bought apples bananas and milk.",
+      "I bought apples, bananas, and milk.",
+      "I bought, apples bananas and milk.",
+      "I bought apples bananas, and milk."
+    ],
+    "answer": 1,
+    "hint": "Use commas in a list."
+  },
+  {
+    "id": "p028-0068",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: What is a citizen?",
+    "choices": [
+      "A type of animal",
+      "A person who belongs to a country",
+      "A planet",
+      "A food"
+    ],
+    "answer": 1,
+    "hint": "Citizens belong to a nation."
+  },
+  {
+    "id": "p028-0069",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a noun?",
+    "choices": [
+      "run",
+      "blue",
+      "dog",
+      "fast"
+    ],
+    "answer": 2,
+    "hint": "A noun is a person/place/thing."
+  },
+  {
+    "id": "p028-0070",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A map shows ____.",
+    "choices": [
+      "weather",
+      "places",
+      "music",
+      "food"
+    ],
+    "answer": 1,
+    "hint": "Maps show locations."
+  },
+  {
+    "id": "p028-0071",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which sentence uses commas correctly?",
+    "choices": [
+      "I bought apples bananas and milk.",
+      "I bought apples, bananas, and milk.",
+      "I bought, apples bananas and milk.",
+      "I bought apples bananas, and milk."
+    ],
+    "answer": 1,
+    "hint": "Use commas in a list."
+  },
+  {
+    "id": "p028-0072",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "importante",
+      "importante",
+      "emportant",
+      "important"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0073",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: What does a mayor usually lead?",
+    "choices": [
+      "A city",
+      "A planet",
+      "A rainforest",
+      "A volcano"
+    ],
+    "answer": 0,
+    "hint": "Local government."
+  },
+  {
+    "id": "p028-0074",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is a food chain?",
+    "choices": [
+      "A type of fence",
+      "How energy moves from one organism to another",
+      "A pet store",
+      "A rock layer"
+    ],
+    "answer": 1,
+    "hint": "Energy transfer in nature."
+  },
+  {
+    "id": "p028-0075",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a noun?",
+    "choices": [
+      "run",
+      "blue",
+      "dog",
+      "fast"
+    ],
+    "answer": 2,
+    "hint": "A noun is a person/place/thing."
+  },
+  {
+    "id": "p028-0076",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "diferent",
+      "diffarant",
+      "defferent",
+      "different"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0077",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0078",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: What is an ecosystem?",
+    "choices": [
+      "A single animal",
+      "Living things and their environment",
+      "A type of cloud",
+      "A toy"
+    ],
+    "answer": 1,
+    "hint": "Organisms + environment."
+  },
+  {
+    "id": "p028-0079",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "bok",
+      "book",
+      "booke",
+      "booke"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0080",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 91 - 9?",
+    "choices": [
+      "49",
+      "118",
+      "82",
+      "91"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0081",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "doge",
+      "doge",
+      "doge",
+      "dog"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0082",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0083",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "pumpkin",
+      "pumpkine",
+      "pumpkine",
+      "pumpken"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0084",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0085",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which is an adjective?",
+    "choices": [
+      "quick",
+      "run",
+      "they",
+      "jump"
+    ],
+    "answer": 0,
+    "hint": "Adjectives describe nouns."
+  },
+  {
+    "id": "p028-0086",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 148 - 14?",
+    "choices": [
+      "136",
+      "134",
+      "141",
+      "160"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0087",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which sentence uses commas correctly?",
+    "choices": [
+      "I bought apples bananas and milk.",
+      "I bought apples, bananas, and milk.",
+      "I bought, apples bananas and milk.",
+      "I bought apples bananas, and milk."
+    ],
+    "answer": 1,
+    "hint": "Use commas in a list."
+  },
+  {
+    "id": "p028-0088",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0089",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "occasionally",
+      "ocasionally",
+      "occaseonally",
+      "occasionallye"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0090",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "bok",
+      "booke",
+      "book",
+      "booke"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0091",
+    "grade": 1,
+    "subject": "Social Studies",
+    "prompt": "Grade 1 Social Studies: A community is a group of ____.",
+    "choices": [
+      "animals",
+      "people",
+      "rocks",
+      "cars"
+    ],
+    "answer": 1,
+    "hint": "Think neighbors."
+  },
+  {
+    "id": "p028-0092",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 958 × 68?",
+    "choices": [
+      "65127",
+      "65115",
+      "65121",
+      "65144"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0093",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is the purpose of the Constitution?",
+    "choices": [
+      "To plan vacations",
+      "To create the rules of government",
+      "To sell food",
+      "To change weather"
+    ],
+    "answer": 1,
+    "hint": "It sets up government and rights."
+  },
+  {
+    "id": "p028-0094",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "pumpkin",
+      "pumpkine",
+      "pumpken",
+      "pumpkine"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0095",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "conveniente",
+      "convaniant",
+      "conveneent",
+      "convenient"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0096",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 28 - 9?",
+    "choices": [
+      "14",
+      "4",
+      "12",
+      "19"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0097",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0098",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: Why do communities have laws?",
+    "choices": [
+      "To make people sad",
+      "To keep order and safety",
+      "To stop learning",
+      "To make storms"
+    ],
+    "answer": 1,
+    "hint": "Think safety and fairness."
+  },
+  {
+    "id": "p028-0099",
+    "grade": 2,
+    "subject": "Grammar",
+    "prompt": "Grade 2 Grammar: Choose the best sentence.",
+    "choices": [
+      "i went home.",
+      "I went home.",
+      "I went Home.",
+      "i Went home."
+    ],
+    "answer": 1,
+    "hint": "Start with a capital letter."
+  },
+  {
+    "id": "p028-0100",
+    "grade": 3,
+    "subject": "Animal Science",
+    "prompt": "Grade 3 Animal Science: What do herbivores eat?",
+    "choices": [
+      "Plants",
+      "Meat",
+      "Rocks",
+      "Plastic"
+    ],
+    "answer": 0,
+    "hint": "Herb = plant."
+  },
+  {
+    "id": "p028-0101",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 171 - 135?",
+    "choices": [
+      "36",
+      "44",
+      "20",
+      "60"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0102",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0103",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "accommodata",
+      "accommodate",
+      "accommodatee",
+      "acommodate"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0104",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which is a complete sentence?",
+    "choices": [
+      "Running fast.",
+      "Because I was late.",
+      "I ran to school.",
+      "In the morning."
+    ],
+    "answer": 2,
+    "hint": "A sentence needs a subject and verb."
+  },
+  {
+    "id": "p028-0105",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0106",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is camouflage used for?",
+    "choices": [
+      "To be loud",
+      "To blend in",
+      "To grow taller",
+      "To fly faster"
+    ],
+    "answer": 1,
+    "hint": "It helps animals hide."
+  },
+  {
+    "id": "p028-0107",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "indapandant",
+      "independente",
+      "independent",
+      "endependent"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0108",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 416 × 461?",
+    "choices": [
+      "191740",
+      "191776",
+      "191773",
+      "191805"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0109",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "tre",
+      "tree",
+      "traa",
+      "treee"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0110",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 109 + 0?",
+    "choices": [
+      "109",
+      "146",
+      "93",
+      "136"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0111",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "schoole",
+      "school",
+      "schol",
+      "schoole"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0112",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0113",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0114",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a noun?",
+    "choices": [
+      "run",
+      "blue",
+      "dog",
+      "fast"
+    ],
+    "answer": 2,
+    "hint": "A noun is a person/place/thing."
+  },
+  {
+    "id": "p028-0115",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 22 - 11?",
+    "choices": [
+      "2",
+      "17",
+      "11",
+      "5"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0116",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 374 × 247?",
+    "choices": [
+      "92405",
+      "92378",
+      "92403",
+      "92364"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0117",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 5 + 14?",
+    "choices": [
+      "26",
+      "17",
+      "21",
+      "19"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0118",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which animal barks?",
+    "choices": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Fish"
+    ],
+    "answer": 1,
+    "hint": "Common pet sound."
+  },
+  {
+    "id": "p028-0119",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is a primary source?",
+    "choices": [
+      "A firsthand record",
+      "A made-up story",
+      "A future prediction",
+      "A rumor"
+    ],
+    "answer": 0,
+    "hint": "Firsthand evidence from the time."
+  },
+  {
+    "id": "p028-0120",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 16 - 12?",
+    "choices": [
+      "12",
+      "4",
+      "2",
+      "-3"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0121",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 183 - 480?",
+    "choices": [
+      "-272",
+      "-297",
+      "-275",
+      "-305"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0122",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: What is a citizen?",
+    "choices": [
+      "A type of animal",
+      "A person who belongs to a country",
+      "A planet",
+      "A food"
+    ],
+    "answer": 1,
+    "hint": "Citizens belong to a nation."
+  },
+  {
+    "id": "p028-0123",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 115 + 124?",
+    "choices": [
+      "239",
+      "266",
+      "222",
+      "265"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0124",
+    "grade": 3,
+    "subject": "Animal Science",
+    "prompt": "Grade 3 Animal Science: Which animal is a mammal?",
+    "choices": [
+      "Shark",
+      "Dolphin",
+      "Salmon",
+      "Lizard"
+    ],
+    "answer": 1,
+    "hint": "Mammals breathe air and nurse babies."
+  },
+  {
+    "id": "p028-0125",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: What is a citizen?",
+    "choices": [
+      "A type of animal",
+      "A person who belongs to a country",
+      "A planet",
+      "A food"
+    ],
+    "answer": 1,
+    "hint": "Citizens belong to a nation."
+  },
+  {
+    "id": "p028-0126",
+    "grade": 4,
+    "subject": "Spelling",
+    "prompt": "Grade 4 Spelling: Which is spelled correctly?",
+    "choices": [
+      "community",
+      "communitye",
+      "comunity",
+      "communety"
+    ],
+    "answer": 0,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0127",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 10 - 5?",
+    "choices": [
+      "5",
+      "-1",
+      "-4",
+      "15"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0128",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is a food chain?",
+    "choices": [
+      "A type of fence",
+      "How energy moves from one organism to another",
+      "A pet store",
+      "A rock layer"
+    ],
+    "answer": 1,
+    "hint": "Energy transfer in nature."
+  },
+  {
+    "id": "p028-0129",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 257 + 71?",
+    "choices": [
+      "374",
+      "370",
+      "328",
+      "303"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0130",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 92 - 85?",
+    "choices": [
+      "6",
+      "7",
+      "-5",
+      "-23"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0131",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 50 - 35?",
+    "choices": [
+      "32",
+      "16",
+      "15",
+      "35"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0132",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "becausee",
+      "because",
+      "becausee",
+      "bacausa"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0133",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: What does a mayor usually lead?",
+    "choices": [
+      "A city",
+      "A planet",
+      "A rainforest",
+      "A volcano"
+    ],
+    "answer": 0,
+    "hint": "Local government."
+  },
+  {
+    "id": "p028-0134",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: Why do communities have laws?",
+    "choices": [
+      "To make people sad",
+      "To keep order and safety",
+      "To stop learning",
+      "To make storms"
+    ],
+    "answer": 1,
+    "hint": "Think safety and fairness."
+  },
+  {
+    "id": "p028-0135",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which is the best revision?",
+    "choices": [
+      "Me and him went.",
+      "Him and me went.",
+      "He and I went.",
+      "I and he went."
+    ],
+    "answer": 2,
+    "hint": "Use subject pronouns: he/I."
+  },
+  {
+    "id": "p028-0136",
+    "grade": 3,
+    "subject": "Animal Science",
+    "prompt": "Grade 3 Animal Science: What do herbivores eat?",
+    "choices": [
+      "Plants",
+      "Meat",
+      "Rocks",
+      "Plastic"
+    ],
+    "answer": 0,
+    "hint": "Herb = plant."
+  },
+  {
+    "id": "p028-0137",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 208 - 458?",
+    "choices": [
+      "-262",
+      "-250",
+      "-264",
+      "-263"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0138",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which word is a conjunction?",
+    "choices": [
+      "and",
+      "quickly",
+      "blue",
+      "school"
+    ],
+    "answer": 0,
+    "hint": "Conjunctions join words/phrases."
+  },
+  {
+    "id": "p028-0139",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 2 + 17?",
+    "choices": [
+      "25",
+      "14",
+      "19",
+      "21"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0140",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which is an animal?",
+    "choices": [
+      "Tree",
+      "Dog",
+      "Cloud",
+      "Rock"
+    ],
+    "answer": 1,
+    "hint": "Animals eat and move."
+  },
+  {
+    "id": "p028-0141",
+    "grade": 1,
+    "subject": "Social Studies",
+    "prompt": "Grade 1 Social Studies: A community is a group of ____.",
+    "choices": [
+      "animals",
+      "people",
+      "rocks",
+      "cars"
+    ],
+    "answer": 1,
+    "hint": "Think neighbors."
+  },
+  {
+    "id": "p028-0142",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which is the best revision?",
+    "choices": [
+      "Me and him went.",
+      "Him and me went.",
+      "He and I went.",
+      "I and he went."
+    ],
+    "answer": 2,
+    "hint": "Use subject pronouns: he/I."
+  },
+  {
+    "id": "p028-0143",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "schoole",
+      "school",
+      "schol",
+      "schoole"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0144",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 14 - 1?",
+    "choices": [
+      "6",
+      "16",
+      "13",
+      "22"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0145",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "schoole",
+      "schol",
+      "school",
+      "schoole"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0146",
+    "grade": 2,
+    "subject": "Grammar",
+    "prompt": "Grade 2 Grammar: Which is a pronoun?",
+    "choices": [
+      "run",
+      "she",
+      "blue",
+      "fast"
+    ],
+    "answer": 1,
+    "hint": "Pronouns replace nouns."
+  },
+  {
+    "id": "p028-0147",
+    "grade": 2,
+    "subject": "Grammar",
+    "prompt": "Grade 2 Grammar: Which is a pronoun?",
+    "choices": [
+      "run",
+      "she",
+      "blue",
+      "fast"
+    ],
+    "answer": 1,
+    "hint": "Pronouns replace nouns."
+  },
+  {
+    "id": "p028-0148",
+    "grade": 2,
+    "subject": "Grammar",
+    "prompt": "Grade 2 Grammar: Choose the best sentence.",
+    "choices": [
+      "i went home.",
+      "I went home.",
+      "I went Home.",
+      "i Went home."
+    ],
+    "answer": 1,
+    "hint": "Start with a capital letter."
+  },
+  {
+    "id": "p028-0149",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "tomorrowe",
+      "tomorrowe",
+      "tomorow",
+      "tomorrow"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0150",
+    "grade": 5,
+    "subject": "Grammar",
+    "prompt": "Grade 5 Grammar: Which sentence is punctuated correctly?",
+    "choices": [
+      "She said \"hello\".",
+      "She said, \"hello.\"",
+      "She said \"hello,\".",
+      "She said, \"hello\"."
+    ],
+    "answer": 1,
+    "hint": "Comma before quotes, period inside quotes."
+  },
+  {
+    "id": "p028-0151",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 369 - 190?",
+    "choices": [
+      "179",
+      "217",
+      "177",
+      "191"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0152",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 187 - 349?",
+    "choices": [
+      "-178",
+      "-162",
+      "-151",
+      "-187"
+    ],
+    "answer": 1,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0153",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 3 + 18?",
+    "choices": [
+      "27",
+      "17",
+      "16",
+      "21"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0154",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 352 + 342?",
+    "choices": [
+      "731",
+      "700",
+      "694",
+      "661"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0155",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A map shows ____.",
+    "choices": [
+      "weather",
+      "places",
+      "music",
+      "food"
+    ],
+    "answer": 1,
+    "hint": "Maps show locations."
+  },
+  {
+    "id": "p028-0156",
+    "grade": 3,
+    "subject": "Math",
+    "prompt": "Grade 3 Math: What is 71 - 22?",
+    "choices": [
+      "54",
+      "22",
+      "49",
+      "79"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0157",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: Which is a renewable resource?",
+    "choices": [
+      "Coal",
+      "Wind",
+      "Oil",
+      "Gasoline"
+    ],
+    "answer": 1,
+    "hint": "Renewable means it can be replaced naturally."
+  },
+  {
+    "id": "p028-0158",
+    "grade": 5,
+    "subject": "Animal Science",
+    "prompt": "Grade 5 Animal Science: What is camouflage used for?",
+    "choices": [
+      "To be loud",
+      "To blend in",
+      "To grow taller",
+      "To fly faster"
+    ],
+    "answer": 1,
+    "hint": "It helps animals hide."
+  },
+  {
+    "id": "p028-0159",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which is an animal?",
+    "choices": [
+      "Tree",
+      "Dog",
+      "Cloud",
+      "Rock"
+    ],
+    "answer": 1,
+    "hint": "Animals eat and move."
+  },
+  {
+    "id": "p028-0160",
+    "grade": 4,
+    "subject": "Grammar",
+    "prompt": "Grade 4 Grammar: Which is a complete sentence?",
+    "choices": [
+      "Running fast.",
+      "Because I was late.",
+      "I ran to school.",
+      "In the morning."
+    ],
+    "answer": 2,
+    "hint": "A sentence needs a subject and verb."
+  },
+  {
+    "id": "p028-0161",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "occasionallye",
+      "occasionally",
+      "ocasionally",
+      "occaseonally"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0162",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a verb?",
+    "choices": [
+      "jump",
+      "green",
+      "soft",
+      "tall"
+    ],
+    "answer": 0,
+    "hint": "A verb is an action."
+  },
+  {
+    "id": "p028-0163",
+    "grade": 3,
+    "subject": "Grammar",
+    "prompt": "Grade 3 Grammar: Which is an adjective?",
+    "choices": [
+      "quick",
+      "run",
+      "they",
+      "jump"
+    ],
+    "answer": 0,
+    "hint": "Adjectives describe nouns."
+  },
+  {
+    "id": "p028-0164",
+    "grade": 4,
+    "subject": "Social Studies",
+    "prompt": "Grade 4 Social Studies: What does a mayor usually lead?",
+    "choices": [
+      "A city",
+      "A planet",
+      "A rainforest",
+      "A volcano"
+    ],
+    "answer": 0,
+    "hint": "Local government."
+  },
+  {
+    "id": "p028-0165",
+    "grade": 2,
+    "subject": "Spelling",
+    "prompt": "Grade 2 Spelling: Which is spelled correctly?",
+    "choices": [
+      "friand",
+      "freend",
+      "friend",
+      "friende"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0166",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "tamparatura",
+      "temperaturee",
+      "temperaturee",
+      "temperature"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0167",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0168",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 5 + 4?",
+    "choices": [
+      "11",
+      "17",
+      "3",
+      "9"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0169",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is the purpose of the Constitution?",
+    "choices": [
+      "To plan vacations",
+      "To create the rules of government",
+      "To sell food",
+      "To change weather"
+    ],
+    "answer": 1,
+    "hint": "It sets up government and rights."
+  },
+  {
+    "id": "p028-0170",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 11 - 3?",
+    "choices": [
+      "1",
+      "25",
+      "8",
+      "28"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0171",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: What is an ecosystem?",
+    "choices": [
+      "A single animal",
+      "Living things and their environment",
+      "A type of cloud",
+      "A toy"
+    ],
+    "answer": 1,
+    "hint": "Organisms + environment."
+  },
+  {
+    "id": "p028-0172",
+    "grade": 1,
+    "subject": "Grammar",
+    "prompt": "Grade 1 Grammar: Which word is a noun?",
+    "choices": [
+      "run",
+      "blue",
+      "dog",
+      "fast"
+    ],
+    "answer": 2,
+    "hint": "A noun is a person/place/thing."
+  },
+  {
+    "id": "p028-0173",
+    "grade": 3,
+    "subject": "Social Studies",
+    "prompt": "Grade 3 Social Studies: Why do communities have laws?",
+    "choices": [
+      "To make people sad",
+      "To keep order and safety",
+      "To stop learning",
+      "To make storms"
+    ],
+    "answer": 1,
+    "hint": "Think safety and fairness."
+  },
+  {
+    "id": "p028-0174",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "calendare",
+      "calendar",
+      "calandar",
+      "calendare"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0175",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: What is an ecosystem?",
+    "choices": [
+      "A single animal",
+      "Living things and their environment",
+      "A type of cloud",
+      "A toy"
+    ],
+    "answer": 1,
+    "hint": "Organisms + environment."
+  },
+  {
+    "id": "p028-0176",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 1 + 12?",
+    "choices": [
+      "13",
+      "18",
+      "14",
+      "15"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0177",
+    "grade": 4,
+    "subject": "Math",
+    "prompt": "Grade 4 Math: What is 76 + 78?",
+    "choices": [
+      "154",
+      "123",
+      "135",
+      "130"
+    ],
+    "answer": 0,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0178",
+    "grade": 2,
+    "subject": "Animal Science",
+    "prompt": "Grade 2 Animal Science: Which is a reptile?",
+    "choices": [
+      "Frog",
+      "Snake",
+      "Robin",
+      "Shark"
+    ],
+    "answer": 1,
+    "hint": "Reptiles have scales."
+  },
+  {
+    "id": "p028-0179",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 33 × 909?",
+    "choices": [
+      "29956",
+      "29978",
+      "30032",
+      "29997"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0180",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 11 + 16?",
+    "choices": [
+      "34",
+      "30",
+      "22",
+      "27"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0181",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0182",
+    "grade": 5,
+    "subject": "Social Studies",
+    "prompt": "Grade 5 Social Studies: What is the purpose of the Constitution?",
+    "choices": [
+      "To plan vacations",
+      "To create the rules of government",
+      "To sell food",
+      "To change weather"
+    ],
+    "answer": 1,
+    "hint": "It sets up government and rights."
+  },
+  {
+    "id": "p028-0183",
+    "grade": 1,
+    "subject": "Spelling",
+    "prompt": "Grade 1 Spelling: Which is spelled correctly?",
+    "choices": [
+      "fishe",
+      "fishe",
+      "fesh",
+      "fish"
+    ],
+    "answer": 3,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0184",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "ramambar",
+      "remember",
+      "remembere",
+      "remembere"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0185",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A globe shows ____.",
+    "choices": [
+      "the Earth",
+      "a dog",
+      "a car",
+      "a song"
+    ],
+    "answer": 0,
+    "hint": "It’s a model of Earth."
+  },
+  {
+    "id": "p028-0186",
+    "grade": 1,
+    "subject": "Math",
+    "prompt": "Grade 1 Math: What is 6 - 2?",
+    "choices": [
+      "-6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0187",
+    "grade": 4,
+    "subject": "Spelling",
+    "prompt": "Grade 4 Spelling: Which is spelled correctly?",
+    "choices": [
+      "excelent",
+      "excellent",
+      "excellente",
+      "axcallant"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0188",
+    "grade": 5,
+    "subject": "Spelling",
+    "prompt": "Grade 5 Spelling: Which is spelled correctly?",
+    "choices": [
+      "ocasionally",
+      "occasionallye",
+      "occasionally",
+      "occaseonally"
+    ],
+    "answer": 2,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0189",
+    "grade": 1,
+    "subject": "Animal Science",
+    "prompt": "Grade 1 Animal Science: Which is an animal?",
+    "choices": [
+      "Tree",
+      "Dog",
+      "Cloud",
+      "Rock"
+    ],
+    "answer": 1,
+    "hint": "Animals eat and move."
+  },
+  {
+    "id": "p028-0190",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: What is an ecosystem?",
+    "choices": [
+      "A single animal",
+      "Living things and their environment",
+      "A type of cloud",
+      "A toy"
+    ],
+    "answer": 1,
+    "hint": "Organisms + environment."
+  },
+  {
+    "id": "p028-0191",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0192",
+    "grade": 2,
+    "subject": "Social Studies",
+    "prompt": "Grade 2 Social Studies: A map shows ____.",
+    "choices": [
+      "weather",
+      "places",
+      "music",
+      "food"
+    ],
+    "answer": 1,
+    "hint": "Maps show locations."
+  },
+  {
+    "id": "p028-0193",
+    "grade": 3,
+    "subject": "Spelling",
+    "prompt": "Grade 3 Spelling: Which is spelled correctly?",
+    "choices": [
+      "calendare",
+      "calendar",
+      "calandar",
+      "calendare"
+    ],
+    "answer": 1,
+    "hint": "Look carefully for common spelling patterns."
+  },
+  {
+    "id": "p028-0194",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 48 + 30?",
+    "choices": [
+      "66",
+      "94",
+      "96",
+      "78"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0195",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 249 × 182?",
+    "choices": [
+      "45358",
+      "45279",
+      "45318",
+      "45300"
+    ],
+    "answer": 2,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0196",
+    "grade": 4,
+    "subject": "Animal Science",
+    "prompt": "Grade 4 Animal Science: Which is a predator?",
+    "choices": [
+      "Rabbit",
+      "Hawk",
+      "Deer",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Predators hunt other animals."
+  },
+  {
+    "id": "p028-0197",
+    "grade": 2,
+    "subject": "Math",
+    "prompt": "Grade 2 Math: What is 34 - 25?",
+    "choices": [
+      "6",
+      "16",
+      "-11",
+      "9"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0198",
+    "grade": 5,
+    "subject": "Math",
+    "prompt": "Grade 5 Math: What is 934 × 221?",
+    "choices": [
+      "206374",
+      "206440",
+      "206452",
+      "206414"
+    ],
+    "answer": 3,
+    "hint": "Work it out step by step."
+  },
+  {
+    "id": "p028-0199",
+    "grade": 3,
+    "subject": "Animal Science",
+    "prompt": "Grade 3 Animal Science: Which animal is a mammal?",
+    "choices": [
+      "Shark",
+      "Dolphin",
+      "Salmon",
+      "Lizard"
+    ],
+    "answer": 1,
+    "hint": "Mammals breathe air and nurse babies."
+  }
+]
